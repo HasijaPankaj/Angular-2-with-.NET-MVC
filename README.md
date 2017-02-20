@@ -11,5 +11,6 @@ How to run?
 * Open "Task Runner Explorer", then right click on "default" task and run. This will create libs folder,
 transpiles TypeScript files to JavaScript.
 * Ensure everything works fine and run app to see Angular 2 running on ASP.NET MVC 5.
+* Install all typescript relevant NuGet packages using the Visual Studio IDE.
 
 
