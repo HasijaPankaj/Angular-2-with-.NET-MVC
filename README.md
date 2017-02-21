@@ -1,4 +1,4 @@
-# Angular2 with .net MVC web application
+# Angular 2 with .net MVC web application
 Using Angular 2 in ASP.NET MVC 5 &amp; Visual Studio 2015
 
 How to run?
